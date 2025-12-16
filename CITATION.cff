@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yasutomo"
+  given-names: "Hiroaki"
+- family-names: "Kato"
+  given-names: "Takuma"
+- family-names: "Aoki"
+  given-names: "Kazuaki"
+- family-names: "Kitazawa"
+  given-names: "Toshiyuki"
+title: "Sedimentary Rock!"
+version: 1.0
+doi: 10.5281/zenodo.17946996
+date-released: 2025.12.16
+url: "https://github.com/kazu404/SedimentaryRock"
